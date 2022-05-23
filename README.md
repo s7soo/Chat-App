@@ -4,5 +4,6 @@ Screens:
 - welcome screen
 - login
 - sign up
-- chat
+- chat.
+
 Using Firebase Authentication and Firestore.
